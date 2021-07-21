@@ -1,0 +1,3 @@
+1.Stock Is Added to the system and full price is stored in the database
+2.Stock is removed from the system and average price per product is subtracted
+3. database information is displayed
